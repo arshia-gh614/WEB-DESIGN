@@ -1,0 +1,84 @@
+@font-face {
+    font-family: a ;
+    src: url(assets/fonts/Big_Shoulders_Display/BigShouldersDisplay-Medium.ttf);
+}
+@font-face {
+    font-family: b;
+    src: url(assets/fonts/Lexend_Deca//LexendDeca-Medium.ttf);
+}
+.di-1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.di-2{
+    margin-right: 415px;
+    margin-top:274px;
+    display: flex;
+}
+.di-5{
+    width: 289px;
+    background-color: #e38826;
+    height: 441px;
+    border-top-left-radius: 7px;
+}
+.e1{
+    margin-right: 175px;
+    margin-top: 8px;
+    font-family: a;
+    font-size: 37px;
+    font-weight: 700;
+    color: #f2f2f2;
+}
+.di-6{
+    margin-top: 71px;
+    margin-right: 138px;
+    border-radius: 20px;
+    background-color:  #f2f2f2;
+    width: 118px;
+    height: 38px;
+}
+.p1{
+    margin-right: 10px;
+    padding: 9px;
+    color: #e38826;
+    font-family: b;
+    font-weight: 400;
+    font-size: 15px;
+}
+.di-3{
+    width: 289px;
+    background-color: #004241;
+    height: 441px;
+    border-top-right-radius: 7px;
+}
+.di-4{
+    width: 289px;
+    background-color:#006970;
+    height: 441px;;
+}
+.e2{
+    margin-right: 200px;
+    margin-top: 8px;
+    font-family: a;
+    font-size: 37px;
+    font-weight: 700;
+    color: #f2f2f2;
+}
+.p2{
+    margin-right: 10px;
+    padding: 9px;
+    color: #006970;
+    font-family: b;
+    font-weight: 400;
+    font-size: 15px;
+}
+.p3{
+    margin-right: 10px;
+    padding: 9px;
+    color: #004241;
+    font-family: b;
+    font-weight: 400;
+    font-size: 15px;
+}
+
